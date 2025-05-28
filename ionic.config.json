@@ -1,0 +1,7 @@
+{
+  "name": "JSON-Observable",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
